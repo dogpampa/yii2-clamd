@@ -1,0 +1,21 @@
+{
+    "name": "dogpampa/yii2-clamd",
+    "description": "Extend https://github.com/FileZ/php-clamd/blob/master/README.md for Yii2",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "BSD-4-Clause",
+    "authors": [
+        {
+            "name": "Luciano Ferreira França",
+            "email": "dogpampa@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "dogpampa\\clamd\\": ""
+        }
+    }
+}

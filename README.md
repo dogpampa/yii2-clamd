@@ -1,3 +1,7 @@
+
+This repository is under construction. Its use is not recommended;
+==================================================================
+
 yii2-clamd
 ==========
 Extend https://github.com/FileZ/php-clamd/blob/master/README.md for Yii2
@@ -10,11 +14,8 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist dogpampa/yii2-clamd "*"
-```
-Either run
-
-```
+composer require --prefer-dist dogpampa/yii2-clamd "*"
+or 
 php composer.phar require --prefer-dist dogpampa/yii2-clamd "*"
 ```
 

@@ -12,6 +12,11 @@ Either run
 ```
 php composer.phar require --prefer-dist dogpampa/yii2-clamd "*"
 ```
+Either run
+
+```
+php composer.phar require --prefer-dist dogpampa/yii2-clamd "*"
+```
 
 or add
 
